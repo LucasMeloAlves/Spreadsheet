@@ -1,0 +1,8 @@
+//
+// Created by lucas on 15/03/24.
+//
+
+#ifndef SPREADSHEET_SPREADSHEET_H
+#define SPREADSHEET_SPREADSHEET_H
+
+#endif //SPREADSHEET_SPREADSHEET_H

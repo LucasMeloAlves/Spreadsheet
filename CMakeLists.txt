@@ -18,7 +18,8 @@ find_package(Qt6 COMPONENTS
         Widgets
         REQUIRED)
 
-add_executable(Spreadsheet main.cpp)
+add_executable(Spreadsheet main.cpp
+        Spreadsheet.h)
 target_link_libraries(Spreadsheet
         Qt6::Core
         Qt6::Gui
